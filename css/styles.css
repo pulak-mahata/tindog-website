@@ -1,0 +1,167 @@
+body {
+  font-family: "Montserrat";
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat";
+}
+
+h3 {
+  font-weight: normal;
+  font-size: 1.5rem;
+}
+
+h2 {
+  font-family: "Montserrat-Black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+/* Heading */
+.big-heading {
+  font-family: 'Montserrat-Black-bold, sans-serif';
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+/* sections */
+.color-section {
+  background-color: #ff4c68;
+  color: #fff;
+}
+.white-section {
+ background-color: #fff;
+}
+
+/* Navigation bar */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-family: "Montserrat-Light";
+  font-size: 1.2rem;
+}
+
+/* Download-button */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Image-Title */
+.image-title {
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+/* features section */
+#features {
+  padding: 7% 15%;
+}
+
+.features-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+/* Testimonials section */
+#testimonials {
+  background-color: #ef8172;
+  text-align: center;
+  color: #fff;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/* Pricing Section */
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-coloumn {
+  padding: 3% 2%;
+
+}
+.price-text {
+  font-size: 2rem;
+}
+.pricing-coloumn h3,h2 {
+  font-weight: normal;
+}
+/* call to action */
+#cta {
+  padding: 8% 10%;
+  text-align: center;
+}
+.cta-btn {
+    margin: 5% 3% 5% 0;
+}
+.h3-cta{
+  font-family: "Montserrat-Black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+/* footer section */
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+}
+.fa-brands {
+  padding: 12px;
+}
